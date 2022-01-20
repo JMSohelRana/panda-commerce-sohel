@@ -1,0 +1,4 @@
+.col-md-5,
+.col-md-7 {
+  flex-direction: row-reverse;
+}
